@@ -1,4 +1,4 @@
-Mysql to mongo mingration
+Mysql to mongo migration tool using java mysql hibernate mongo
 
 
 This Project is basically start up project using SpringBOOT 
